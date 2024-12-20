@@ -1,0 +1,1 @@
+   #Este proyecto consiste en un blog sobre tacos, contiene la historia, algunos de los sabores, y recomendaciones personales de taqueria. Utiliza un menu de navegacion en la parte superior de la pagina, enlaces a las ubicaciones de las taquerias y a un articulo para conocer a mas detalle la historia. Tambien contiene imagenes que ayudan a mejorar la experiencia de leer el blog.
